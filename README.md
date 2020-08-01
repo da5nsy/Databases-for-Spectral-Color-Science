@@ -1,10 +1,10 @@
 # Databases-for-Spectral-Color-Science
 
+## Warning: this is a work in progress. [Get in touch](mailto:dannygarside@outlook.com) if you want to get involved.
+
 # To-do
 
-- Write summary in readme
-- Set up github.io
-- Work out how to push markdown file to github.io
+- Everything
 
 Best URL for this project is currently [da5nsy.github.io/Databases-for-Spectral-Color-Science/](//da5nsy.github.io/Databases-for-Spectral-Color-Science/).
 
